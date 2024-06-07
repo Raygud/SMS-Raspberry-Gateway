@@ -5,12 +5,11 @@
 ## Project Setup Images
 
 Below are images of the hardware setup:
-
+![Complete Setup View 1](images/IMG_1544.jpg)
+![Complete Setup View 2](images/IMG_1545.jpg)
 ![Raspberry Pi and Components](images/IMG_1540.jpg)
 ![Breadboard Setup](images/IMG_1542.jpg)
 ![SIM800L Module](images/IMG_1543.jpg)
-![Complete Setup View 1](images/IMG_1544.jpg)
-![Complete Setup View 2](images/IMG_1545.jpg)
 
 ## Installation
 
